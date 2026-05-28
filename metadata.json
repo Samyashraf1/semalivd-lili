@@ -1,0 +1,6 @@
+{
+  "name": "CinemaLive",
+  "description": "تطبيق ترفيهي شامل يجمع بين الأفلام العربية والأجنبية ومباريات اليوم مباشرة والقنوات التلفزيونية الحية بتصميم أنيق وسيرفرات متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
